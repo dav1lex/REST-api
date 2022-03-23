@@ -1,5 +1,5 @@
-to use it, you will need 
-1-XAMP
+to use it, you will need <br>
+1-XAMP<br>
 2- A database called 'transactions'<br>
     a table called 'transactions'<br>
         inside table:<br>
