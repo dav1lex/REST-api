@@ -1,10 +1,10 @@
 to use it, you will need 
 1-XAMP
-2- A database called 'transactions'
-    a table called 'transactions'
-        inside table:
-            * id // int not null primary key
-            * order_id // int not null unique key
-            * amount // decimal not null
-            * response_code // int not null
-            * response_desc // varchar not null
+2- A database called 'transactions'<br>
+    a table called 'transactions'<br>
+        inside table:<br>
+            * id // int not null primary key<br>
+            * order_id // int not null unique key<br>
+            * amount // decimal not null<br>
+            * response_code // int not null<br>
+            * response_desc // varchar not null<br>
